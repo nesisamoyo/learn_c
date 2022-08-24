@@ -120,5 +120,5 @@ C was developed by Dennis McAlistair Ritchie in 1972 at the AT&T Bell Laboratori
 <ul>
   <li> File Handling in C </li>
   <li> Error Handling in C</li>
-  <li> Random Access to a File C </li>
+  <li> Random Access to a File  </li>
 </ul>
