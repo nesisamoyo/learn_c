@@ -1,5 +1,5 @@
 <h1> Introduction to C </h1>
-C was developed by Dennis McAlistair in 1972 at the AT&T Bell Laboratories.
+C was developed by Dennis McAlistair Ritchie in 1972 at the AT&T Bell Laboratories.
 
 <h1>Building Block of C Language</h1>
 <h1>Basic Input Output in C</h1>
